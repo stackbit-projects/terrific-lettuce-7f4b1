@@ -1,0 +1,18 @@
+baseurl = "https://example.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hugo Theme Dream"
+theme = "dream"
+themesDir = "themes"
+baseURL = ""
+publishDir = "public"
+
+[params]
+background = "#f7f7f7"
+linkColor = "seagreen"
+author = "Yue Yang"
+avatar = "/img/avatar.jpeg"
+headerTitle = "Hugo Theme Dream"
+motto = "Motto"
+email = "g1enyy0ung@gmail.com"
+siteStartYear = 2_016
